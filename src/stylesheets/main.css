@@ -1,2 +1,7 @@
 /* Your styles go here */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.jumbotron{
+    background-image: url(https://media.istockphoto.com/photos/arches-national-park-picture-id1040754344?b=1&k=20&m=1040754344&s=170667a&w=0&h=dP4DMhLA2OJT3vyv8eCfqrO5o6ZIP8zJ0be7zSJn85w=);
+    background-position: center;
+    background-size: cover;
+}
